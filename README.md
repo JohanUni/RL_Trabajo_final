@@ -1,3 +1,13 @@
+Maestría en Inteligencia Artificial - UNI
+ 
+Integrantes G8:
+- Fernando Boza Gutarra
+- Johan Manuel Callomamani Buendia
+- Kevin Gómez Villanueva	
+- Umbert Lewis de la Cruz Rodriguez
+- Yovany Romero Ramos
+
+
 # Deep Q-Network Training
 
 Este proyecto implementa un agente **Deep Q-Network (DQN)** para jugar MsPacman utilizando PyTorch y Gymnasium. El agente emplea experiencia de repetición, redes Q local y objetivo, y preprocesamiento de imágenes.

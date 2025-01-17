@@ -1,0 +1,12 @@
+# Hiperparámetros
+number_episodes = 2000
+maximum_number_timesteps_per_episode = 10000
+learning_rate = 0.0005
+minibatch_size = 256
+discount_factor = 0.99
+max_memory = 20000
+patience = 1000
+earlystop_threshold = 0.01
+epsilon_starting_value = 1
+epsilon_ending_value = 0.01
+epsilon_decay_value = 0.98
